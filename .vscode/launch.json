@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ManagementSystem<cominncafe>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.inn.cafe.cominncafe.ManagementSystem",
+            "projectName": "cominncafe",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
